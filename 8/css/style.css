@@ -1,0 +1,49 @@
+.column{
+    display: flex;
+    justify-content: space-around;
+}
+.block{
+    width: 33%;
+   
+}
+.block-item{
+    width: 100%;
+   
+    object-fit: cover;
+    padding:0 0 50% 0;
+    overflow: hidden;
+    position: relative;
+}
+.block-item img{
+    width: 100%;
+    height:     100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+
+
+
+
+.block-line{
+
+    min-height: 200px;
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+     
+
+}
+
+.line-item{
+    flex: 0 0 500px;
+}
+.line-item img{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+p{
+    padding: 10px;
+}

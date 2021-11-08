@@ -1,0 +1,21 @@
+table{
+    background-color: royalblue;
+    width: 100%;
+}
+.left{
+    width: 25%;
+    background-color: salmon;
+box-shadow: 3px 8px 9px 4px #000000;
+}
+.center{
+    width: 5%;
+box-shadow: 3px 8px 9px 4px #000000;
+}
+.right{
+    width: 70%;
+    background-color: seagreen;
+box-shadow: 3px 8px 9px 4px #000000;
+}
+h2{
+    font-family: ;
+}

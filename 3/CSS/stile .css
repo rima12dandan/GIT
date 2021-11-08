@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+img{
+    width: 10%;
+}
+table{
+    width: 100%;
+    height: 75vh;
+    border: 2px solid;
+    border-collapse: collapse;
+    background: linear-gradient(45deg, rgb(152, 207, 195), rgb(123, 82, 182));
+
+}
+th {
+    border: 2px solid;
+
+}
+th:hover{
+    border: 2px solid rgb(207, 195, 218);
+    color: teal;
+    font-size: 25pt;
+
+}
