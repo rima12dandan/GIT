@@ -33,14 +33,14 @@ ul li:hover>ul{
     background-color: darkslategray;
     width: 120px;
     position: absolute;
-    left: 250px;
+    left: 220px;
 }
 ul li ul li:hover>ul{
     display: block;
     background-color: darkslategray;
     width: 120px;
     position: absolute;
-    left: 120px;
+    left: 100px;
     top: 60px;
 
     

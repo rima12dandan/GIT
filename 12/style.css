@@ -1,64 +1,51 @@
-.circle{
-    height: 200px;
-    width: 200px;
-    background-color: cadetblue;
-    border-radius: 200px;
-
-    left: -100px;
-    bottom: -150px;
-    position: absolute;
-}
 .centre{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 600px;
-    width: 600px;
 }
 .yellow{
-    background-color: moccasin;
-    height: 600px;
-    width: 300px;
-   
-
-
-}
-h1{
-    margin: 35px;
-}
-.f{
-    border: 2px solid black ;
-    border-radius: 50%;
-    width: 20px;
-    height: 15px;
-    margin: 15px;
-}
-.t{
-    border: 2px solid black ;
-    border-radius: 50%;
-    width: 20px;
-    height: 15px;
-    margin: 15px;
-}
-.in{
-    border: 2px solid black ;
-    border-radius: 50%;
-    width: 20px;
-    height: 15px;
-    margin: 15px;
+    width: 25%;
+    height: 60vh;
+    background-color: blanchedalmond;
+  padding: 10px;
 }
 .green{
-    height: 600px;
-    width: 300px;
-  
-    background-color: cadetblue;
- 
+    width: 25%;
+    height: 60vh;
+    background-color: rgb(24, 163, 110);
+    padding: 10px;
 }
-a{
-    color: darkcyan ;
-    text-decoration: darkcyan solid;
+.f{
+    border-radius: 50%;
+    border: black 2px;
 }
 .cont{
-    border: teal solid;
+    color: white;
+    text-decoration: cadetblue dashed;
+    justify-content: end;
+    display: flex;
+    border: cadetblue;
+    border-radius: 10px;
+    background-color:cadetblue;
+    width: 20%;
+    padding: 3px;
+
+}
+h2{
+    color: white;
+    padding: 100px;
+    
+}
+h1{
+    color: white;
+
+}
+.abc{
+    display: inline-block;
+    border: 2px black solid;
     border-radius: 20px;
+}
+.one{
+    color: black;
+
 }
