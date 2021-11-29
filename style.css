@@ -32,7 +32,7 @@
     
     margin: 10px;
     color: white;
-    background-color: rgb(74, 59, 117);
+    background-color: black;
     text-align: center;
     color: black;
     padding: 20px;
@@ -43,10 +43,12 @@
 a{
     text-decoration: none black; 
     text-align: center;
+    color: black;
 
 }
 a:visited{
     background-color: rgb(106, 90, 199);
     border: black;
+    color: black;
 }
 

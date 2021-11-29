@@ -1,0 +1,41 @@
+
+.btn-warning{
+    border-radius: 50%;
+
+}
+.float{
+    right: auto;
+}
+.card-text{
+    max-height: 70px;
+    overflow: hidden;
+}
+p{
+    margin-top: 0;
+    margin-bottom: ;
+}
+.card-img-top{
+    min-height: 200px;
+    max-height: 200px;
+    object-fit: contain;
+    padding: 20px ;
+    
+}
+.card{
+    border-radius: 20px;
+
+}
+
+.float{
+    float: right;
+}
+.float-left{
+    float: left;
+}
+p{
+    padding: 2px;
+}
+.fa-heart-o{
+    color: red;
+
+}
