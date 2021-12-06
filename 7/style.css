@@ -1,14 +1,47 @@
-CV{color:cadetblue}
 
-th.right{width: 70%;background-color: khaki;border:solid;box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);;border-radius: 30%;}
-th.centre{width: 5%;}
-th.left{width: 25%;background-color: khaki;border: solid;border-radius: 30%;}
-h2{
-    font-family: 'Ephesis', cursive;
+.black{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    color: white;
+    float: left;
+
 }
- .up{
-     border: black
-     box-shadow: 0px -5px 5px -5px rgba(34, 60, 80, 0.6);
-    :hover 
-  }
-  
+.left{
+    width: 25%;
+    background-color: tomato;
+    color: white;
+    float: left;
+    height: 400px;
+    
+}
+.right{
+    width: 75%;
+    height: 400px;
+    background-color: blue;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.centre{ 
+    width: 100%;
+   text-align: center;
+}
+img{
+    width: 200px;
+}
+.block{
+
+    background-color: black;
+    width: 15%;
+    height: 100px;
+    
+}
+
+.black1{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    color: white;
+    float: left;
