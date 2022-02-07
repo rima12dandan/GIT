@@ -1,0 +1,20 @@
+.top{
+    background-color:darkslategrey;
+    height: 70%;
+    width: 100%;
+    float: left;
+    color: white;
+    object-fit: cover;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+
+}
+.top-centre{
+    border: 5px;solid; white;
+}
+.down{
+    font-family: 'Dancing Script', cursive;
+}
+
+

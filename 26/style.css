@@ -1,0 +1,20 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+button{
+  margin: 20px;
+ 
+}
+.main{
+  display: flex;
+  justify-content: space-between;
+}
+.main-left{
+    width: 300px;
+    background-color: beige;
+}
+.main-right{
+    width: 300px;
+    background-color: beige;
+}
